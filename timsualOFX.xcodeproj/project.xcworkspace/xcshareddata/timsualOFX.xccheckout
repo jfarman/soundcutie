@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0C323DC-80F8-4666-9A3E-3E51AB5D2534</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA</key>
+		<string>https://github.com/kylemcdonald/ofxFft.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA</key>
+		<string>ofxFft/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kylemcdonald/ofxFft.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxFft</string>
+		</dict>
+	</array>
+</dict>
+</plist>
